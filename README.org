@@ -1,12 +1,12 @@
-* Older Generation Toolkit
+* Ageing Well Toolkit
 
-The Older Generation Toolkit is made up of three parts: (1) a collection of self-powered sensors, (2) self-powered displays, and (3) a central hub to collect sensor activation data and transmit activity data to the corresponding displays. Each self-powered sensor is designed to be as flexible as possible to allow the widest range of applicability, where sensors can be used for many types of interaction e.g. one sensor type can detect both door and drawer use.
+The Ageing Well Toolkit is made up of three parts: (1) a collection of self-powered sensors, (2) self-powered displays, and (3) a central hub to collect sensor activation data and transmit activity data to the corresponding displays. Each self-powered sensor is designed to be as flexible as possible to allow the widest range of applicability, where sensors can be used for many types of interaction e.g. one sensor type can detect both door and drawer use.
 
 These three parts allow the tracking of activity data around the home. For example, you might like to track the amount of activity you do with your hobbies, cooking or chores. Surfacing this activity promotes self-reflections such as “I read less than I thought I did”.
 
 The three parts of the system work together to collect sensor activity data and display it back to the user in a meaningful way.
 
-** Setting up Older Generation Toolkit
+** Setting up the Ageing Well Toolkit
 
 
 ** License
